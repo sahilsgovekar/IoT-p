@@ -30,12 +30,6 @@ The **Smart Parking System** is an IoT-based solution designed to optimize parki
 10. **LEDs**:
    - (Optional) For additional visual indication.
 
-### **Software**
-1. **Arduino IDE**:
-   - Used to write and upload the code to the microcontroller.
-2. **Libraries**:
-   - `LiquidCrystal_I2C`: For LCD display.
-   - `Servo`: For controlling the servo motor.
 
 ---
 
